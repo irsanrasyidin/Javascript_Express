@@ -1,0 +1,2102 @@
+[
+     {
+          "nama": "InsertJson",
+          "masuk": "0:9:9",
+          "keluar": "0:9:9",
+          "duration": "5.413",
+          "coba": 1
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:9:16",
+          "keluar": "0:9:16",
+          "duration": "12.008",
+          "coba": 2
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:9:22",
+          "keluar": "0:9:22",
+          "duration": "5.385",
+          "coba": 3
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:9:45",
+          "keluar": "0:9:45",
+          "duration": "4.708",
+          "coba": 4
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:9:51",
+          "keluar": "0:9:51",
+          "duration": "5.221",
+          "coba": 5
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:10:1",
+          "keluar": "0:10:1",
+          "duration": "5.888",
+          "coba": 6
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:10:8",
+          "keluar": "0:10:8",
+          "duration": "4.957",
+          "coba": 7
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:10:16",
+          "keluar": "0:10:16",
+          "duration": "5.015",
+          "coba": 8
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:10:24",
+          "keluar": "0:10:24",
+          "duration": "5.021",
+          "coba": 9
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:10:31",
+          "keluar": "0:10:31",
+          "duration": "5.576",
+          "coba": 10
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:10:38",
+          "keluar": "0:10:38",
+          "duration": "5.349",
+          "coba": 11
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:10:46",
+          "keluar": "0:10:46",
+          "duration": "4.219",
+          "coba": 12
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:11:3",
+          "keluar": "0:11:3",
+          "duration": "4.836",
+          "coba": 13
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:11:11",
+          "keluar": "0:11:11",
+          "duration": "5.070",
+          "coba": 14
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:11:17",
+          "keluar": "0:11:17",
+          "duration": "4.507",
+          "coba": 15
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:11:25",
+          "keluar": "0:11:25",
+          "duration": "4.921",
+          "coba": 16
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:11:32",
+          "keluar": "0:11:32",
+          "duration": "4.387",
+          "coba": 17
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:11:54",
+          "keluar": "0:11:54",
+          "duration": "5.600",
+          "coba": 18
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:12:1",
+          "keluar": "0:12:1",
+          "duration": "5.543",
+          "coba": 19
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:12:9",
+          "keluar": "0:12:9",
+          "duration": "5.136",
+          "coba": 20
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:12:15",
+          "keluar": "0:12:15",
+          "duration": "4.969",
+          "coba": 21
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:12:22",
+          "keluar": "0:12:22",
+          "duration": "4.562",
+          "coba": 22
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:12:29",
+          "keluar": "0:12:29",
+          "duration": "4.961",
+          "coba": 23
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:12:49",
+          "keluar": "0:12:49",
+          "duration": "4.885",
+          "coba": 24
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:12:56",
+          "keluar": "0:12:56",
+          "duration": "5.640",
+          "coba": 25
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:33:42",
+          "keluar": "0:33:42",
+          "duration": "9.723",
+          "coba": 26
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:42:32",
+          "keluar": "0:42:32",
+          "duration": "10.073",
+          "coba": 27
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:53:4",
+          "keluar": "0:53:4",
+          "duration": "14.105",
+          "coba": 28
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "0:55:11",
+          "keluar": "0:55:11",
+          "duration": "7.251",
+          "coba": 29
+     },
+     {
+          "nama": "InsertJson",
+          "masuk": "1:1:34",
+          "keluar": "1:1:34",
+          "duration": "9.720",
+          "coba": 30
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:9:9",
+          "keluar": "0:9:9",
+          "duration": "37.127",
+          "coba": 1
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:9:16",
+          "keluar": "0:9:16",
+          "duration": "68.650",
+          "coba": 2
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:9:22",
+          "keluar": "0:9:23",
+          "duration": "41.633",
+          "coba": 3
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:9:45",
+          "keluar": "0:9:45",
+          "duration": "50.792",
+          "coba": 4
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:9:51",
+          "keluar": "0:9:51",
+          "duration": "36.485",
+          "coba": 5
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:10:1",
+          "keluar": "0:10:1",
+          "duration": "39.189",
+          "coba": 6
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:10:8",
+          "keluar": "0:10:8",
+          "duration": "39.057",
+          "coba": 7
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:10:16",
+          "keluar": "0:10:16",
+          "duration": "35.788",
+          "coba": 8
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:10:24",
+          "keluar": "0:10:24",
+          "duration": "38.698",
+          "coba": 9
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:10:31",
+          "keluar": "0:10:31",
+          "duration": "35.284",
+          "coba": 10
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:10:38",
+          "keluar": "0:10:38",
+          "duration": "39.030",
+          "coba": 11
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:10:46",
+          "keluar": "0:10:46",
+          "duration": "35.116",
+          "coba": 12
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:11:3",
+          "keluar": "0:11:3",
+          "duration": "36.182",
+          "coba": 13
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:11:11",
+          "keluar": "0:11:11",
+          "duration": "43.310",
+          "coba": 14
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:11:17",
+          "keluar": "0:11:17",
+          "duration": "35.777",
+          "coba": 15
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:11:25",
+          "keluar": "0:11:25",
+          "duration": "35.926",
+          "coba": 16
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:11:32",
+          "keluar": "0:11:32",
+          "duration": "35.248",
+          "coba": 17
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:11:54",
+          "keluar": "0:11:54",
+          "duration": "39.487",
+          "coba": 18
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:12:1",
+          "keluar": "0:12:1",
+          "duration": "41.282",
+          "coba": 19
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:12:9",
+          "keluar": "0:12:9",
+          "duration": "41.973",
+          "coba": 20
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:12:15",
+          "keluar": "0:12:15",
+          "duration": "40.665",
+          "coba": 21
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:12:22",
+          "keluar": "0:12:22",
+          "duration": "37.044",
+          "coba": 22
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:12:29",
+          "keluar": "0:12:29",
+          "duration": "44.813",
+          "coba": 23
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:12:49",
+          "keluar": "0:12:49",
+          "duration": "38.821",
+          "coba": 24
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:12:56",
+          "keluar": "0:12:56",
+          "duration": "62.840",
+          "coba": 25
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:33:42",
+          "keluar": "0:33:43",
+          "duration": "180.169",
+          "coba": 26
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:42:32",
+          "keluar": "0:42:32",
+          "duration": "148.760",
+          "coba": 27
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:53:4",
+          "keluar": "0:53:4",
+          "duration": "143.649",
+          "coba": 28
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "0:55:11",
+          "keluar": "0:55:11",
+          "duration": "161.861",
+          "coba": 29
+     },
+     {
+          "nama": "InsertPostgresql",
+          "masuk": "1:1:34",
+          "keluar": "1:1:34",
+          "duration": "145.272",
+          "coba": 30
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:7:5",
+          "keluar": "0:7:5",
+          "duration": "25.576",
+          "coba": 1
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:7:6",
+          "keluar": "0:7:6",
+          "duration": "25.138",
+          "coba": 2
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:7:8",
+          "keluar": "0:7:8",
+          "duration": "24.981",
+          "coba": 3
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:7:10",
+          "keluar": "0:7:10",
+          "duration": "28.193",
+          "coba": 4
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:7:11",
+          "keluar": "0:7:11",
+          "duration": "25.443",
+          "coba": 5
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:7:13",
+          "keluar": "0:7:13",
+          "duration": "25.716",
+          "coba": 6
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:7:14",
+          "keluar": "0:7:14",
+          "duration": "24.064",
+          "coba": 7
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:7:16",
+          "keluar": "0:7:16",
+          "duration": "26.841",
+          "coba": 8
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:7:17",
+          "keluar": "0:7:17",
+          "duration": "26.133",
+          "coba": 9
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:7:18",
+          "keluar": "0:7:18",
+          "duration": "24.205",
+          "coba": 10
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:7:20",
+          "keluar": "0:7:20",
+          "duration": "24.116",
+          "coba": 11
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:30:23",
+          "keluar": "0:30:23",
+          "duration": "87.387",
+          "coba": 12
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:33:45",
+          "keluar": "0:33:45",
+          "duration": "58.292",
+          "coba": 13
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:34:55",
+          "keluar": "0:34:55",
+          "duration": "52.942",
+          "coba": 14
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:35:11",
+          "keluar": "0:35:11",
+          "duration": "48.192",
+          "coba": 15
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:36:37",
+          "keluar": "0:36:37",
+          "duration": "3.046",
+          "coba": 16
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:42:39",
+          "keluar": "0:42:39",
+          "duration": "50.964",
+          "coba": 17
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:43:5",
+          "keluar": "0:43:5",
+          "duration": "50.439",
+          "coba": 18
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:43:16",
+          "keluar": "0:43:16",
+          "duration": "50.561",
+          "coba": 19
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:44:32",
+          "keluar": "0:44:32",
+          "duration": "2.335",
+          "coba": 20
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:53:6",
+          "keluar": "0:53:6",
+          "duration": "46.415",
+          "coba": 21
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:53:23",
+          "keluar": "0:53:23",
+          "duration": "48.210",
+          "coba": 22
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:53:41",
+          "keluar": "0:53:41",
+          "duration": "54.413",
+          "coba": 23
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:53:51",
+          "keluar": "0:53:51",
+          "duration": "48.923",
+          "coba": 24
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:55:14",
+          "keluar": "0:55:14",
+          "duration": "46.687",
+          "coba": 25
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:55:52",
+          "keluar": "0:55:52",
+          "duration": "65.958",
+          "coba": 26
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "0:56:2",
+          "keluar": "0:56:2",
+          "duration": "45.135",
+          "coba": 27
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "1:1:38",
+          "keluar": "1:1:38",
+          "duration": "45.424",
+          "coba": 28
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "1:2:6",
+          "keluar": "1:2:6",
+          "duration": "53.042",
+          "coba": 29
+     },
+     {
+          "nama": "getAllJsons",
+          "masuk": "1:2:17",
+          "keluar": "1:2:17",
+          "duration": "48.891",
+          "coba": 30
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:46:49",
+          "keluar": "23:46:49",
+          "duration": "0.337",
+          "coba": 1
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:46:50",
+          "keluar": "23:46:50",
+          "duration": "0.431",
+          "coba": 2
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:46:52",
+          "keluar": "23:46:52",
+          "duration": "0.303",
+          "coba": 3
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:46:54",
+          "keluar": "23:46:54",
+          "duration": "0.297",
+          "coba": 4
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:46:55",
+          "keluar": "23:46:55",
+          "duration": "0.325",
+          "coba": 5
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:46:56",
+          "keluar": "23:46:56",
+          "duration": "0.283",
+          "coba": 6
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:46:58",
+          "keluar": "23:46:58",
+          "duration": "0.280",
+          "coba": 7
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:46:59",
+          "keluar": "23:46:59",
+          "duration": "0.322",
+          "coba": 8
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:1",
+          "keluar": "23:47:1",
+          "duration": "0.295",
+          "coba": 9
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:2",
+          "keluar": "23:47:2",
+          "duration": "0.273",
+          "coba": 10
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:4",
+          "keluar": "23:47:4",
+          "duration": "0.236",
+          "coba": 11
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:6",
+          "keluar": "23:47:6",
+          "duration": "0.306",
+          "coba": 12
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:7",
+          "keluar": "23:47:7",
+          "duration": "0.381",
+          "coba": 13
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:8",
+          "keluar": "23:47:8",
+          "duration": "0.268",
+          "coba": 14
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:10",
+          "keluar": "23:47:10",
+          "duration": "0.276",
+          "coba": 15
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:11",
+          "keluar": "23:47:11",
+          "duration": "0.519",
+          "coba": 16
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:12",
+          "keluar": "23:47:12",
+          "duration": "0.262",
+          "coba": 17
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:14",
+          "keluar": "23:47:14",
+          "duration": "0.277",
+          "coba": 18
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:15",
+          "keluar": "23:47:15",
+          "duration": "0.295",
+          "coba": 19
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:17",
+          "keluar": "23:47:17",
+          "duration": "0.256",
+          "coba": 20
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:18",
+          "keluar": "23:47:18",
+          "duration": "0.259",
+          "coba": 21
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:19",
+          "keluar": "23:47:19",
+          "duration": "0.319",
+          "coba": 22
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:22",
+          "keluar": "23:47:22",
+          "duration": "0.260",
+          "coba": 23
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "23:47:24",
+          "keluar": "23:47:24",
+          "duration": "0.299",
+          "coba": 24
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "0:34:10",
+          "keluar": "0:34:10",
+          "duration": "0.604",
+          "coba": 25
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "0:34:12",
+          "keluar": "0:34:12",
+          "duration": "0.437",
+          "coba": 26
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "0:42:46",
+          "keluar": "0:42:46",
+          "duration": "0.411",
+          "coba": 27
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "0:53:13",
+          "keluar": "0:53:13",
+          "duration": "0.553",
+          "coba": 28
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "0:55:28",
+          "keluar": "0:55:28",
+          "duration": "0.396",
+          "coba": 29
+     },
+     {
+          "nama": "getByNameJsons",
+          "masuk": "1:1:45",
+          "keluar": "1:1:45",
+          "duration": "0.500",
+          "coba": 30
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:34",
+          "keluar": "23:47:34",
+          "duration": "24.228",
+          "coba": 1
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:35",
+          "keluar": "23:47:35",
+          "duration": "28.820",
+          "coba": 2
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:37",
+          "keluar": "23:47:37",
+          "duration": "22.936",
+          "coba": 3
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:39",
+          "keluar": "23:47:39",
+          "duration": "26.001",
+          "coba": 4
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:41",
+          "keluar": "23:47:41",
+          "duration": "23.085",
+          "coba": 5
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:42",
+          "keluar": "23:47:42",
+          "duration": "25.965",
+          "coba": 6
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:43",
+          "keluar": "23:47:44",
+          "duration": "23.278",
+          "coba": 7
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:45",
+          "keluar": "23:47:45",
+          "duration": "24.036",
+          "coba": 8
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:46",
+          "keluar": "23:47:46",
+          "duration": "22.621",
+          "coba": 9
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:48",
+          "keluar": "23:47:48",
+          "duration": "27.476",
+          "coba": 10
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:49",
+          "keluar": "23:47:49",
+          "duration": "24.155",
+          "coba": 11
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:51",
+          "keluar": "23:47:51",
+          "duration": "26.462",
+          "coba": 12
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:52",
+          "keluar": "23:47:52",
+          "duration": "23.019",
+          "coba": 13
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:53",
+          "keluar": "23:47:53",
+          "duration": "24.435",
+          "coba": 14
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:55",
+          "keluar": "23:47:55",
+          "duration": "22.271",
+          "coba": 15
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:57",
+          "keluar": "23:47:57",
+          "duration": "22.512",
+          "coba": 16
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:47:59",
+          "keluar": "23:47:59",
+          "duration": "22.772",
+          "coba": 17
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:48:1",
+          "keluar": "23:48:1",
+          "duration": "26.023",
+          "coba": 18
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:48:2",
+          "keluar": "23:48:2",
+          "duration": "23.166",
+          "coba": 19
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:48:3",
+          "keluar": "23:48:3",
+          "duration": "24.888",
+          "coba": 20
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:48:5",
+          "keluar": "23:48:5",
+          "duration": "25.216",
+          "coba": 21
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:48:6",
+          "keluar": "23:48:6",
+          "duration": "22.004",
+          "coba": 22
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:48:8",
+          "keluar": "23:48:8",
+          "duration": "22.445",
+          "coba": 23
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:48:9",
+          "keluar": "23:48:9",
+          "duration": "25.719",
+          "coba": 24
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "23:48:11",
+          "keluar": "23:48:11",
+          "duration": "23.111",
+          "coba": 25
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "0:34:22",
+          "keluar": "0:34:22",
+          "duration": "56.513",
+          "coba": 26
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "0:42:51",
+          "keluar": "0:42:51",
+          "duration": "47.789",
+          "coba": 27
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "0:53:17",
+          "keluar": "0:53:17",
+          "duration": "49.772",
+          "coba": 28
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "0:55:32",
+          "keluar": "0:55:32",
+          "duration": "55.348",
+          "coba": 29
+     },
+     {
+          "nama": "getByEmailJsons",
+          "masuk": "1:1:47",
+          "keluar": "1:1:47",
+          "duration": "49.496",
+          "coba": 30
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:20",
+          "keluar": "23:48:20",
+          "duration": "25.564",
+          "coba": 1
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:21",
+          "keluar": "23:48:21",
+          "duration": "23.099",
+          "coba": 2
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:23",
+          "keluar": "23:48:23",
+          "duration": "22.188",
+          "coba": 3
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:24",
+          "keluar": "23:48:24",
+          "duration": "24.096",
+          "coba": 4
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:26",
+          "keluar": "23:48:26",
+          "duration": "21.954",
+          "coba": 5
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:27",
+          "keluar": "23:48:27",
+          "duration": "23.780",
+          "coba": 6
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:28",
+          "keluar": "23:48:28",
+          "duration": "22.174",
+          "coba": 7
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:30",
+          "keluar": "23:48:30",
+          "duration": "25.824",
+          "coba": 8
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:31",
+          "keluar": "23:48:31",
+          "duration": "23.702",
+          "coba": 9
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:33",
+          "keluar": "23:48:33",
+          "duration": "21.698",
+          "coba": 10
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:35",
+          "keluar": "23:48:35",
+          "duration": "24.755",
+          "coba": 11
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:36",
+          "keluar": "23:48:36",
+          "duration": "25.747",
+          "coba": 12
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:37",
+          "keluar": "23:48:37",
+          "duration": "23.377",
+          "coba": 13
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:39",
+          "keluar": "23:48:39",
+          "duration": "22.057",
+          "coba": 14
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:40",
+          "keluar": "23:48:40",
+          "duration": "24.299",
+          "coba": 15
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:42",
+          "keluar": "23:48:42",
+          "duration": "22.419",
+          "coba": 16
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:43",
+          "keluar": "23:48:43",
+          "duration": "25.354",
+          "coba": 17
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:45",
+          "keluar": "23:48:45",
+          "duration": "22.224",
+          "coba": 18
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:47",
+          "keluar": "23:48:47",
+          "duration": "25.663",
+          "coba": 19
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:48",
+          "keluar": "23:48:48",
+          "duration": "23.476",
+          "coba": 20
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:49",
+          "keluar": "23:48:49",
+          "duration": "22.198",
+          "coba": 21
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:51",
+          "keluar": "23:48:51",
+          "duration": "23.813",
+          "coba": 22
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:52",
+          "keluar": "23:48:52",
+          "duration": "22.130",
+          "coba": 23
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:54",
+          "keluar": "23:48:54",
+          "duration": "26.301",
+          "coba": 24
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "23:48:55",
+          "keluar": "23:48:55",
+          "duration": "22.043",
+          "coba": 25
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "0:34:36",
+          "keluar": "0:34:36",
+          "duration": "60.581",
+          "coba": 26
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "0:42:54",
+          "keluar": "0:42:54",
+          "duration": "50.974",
+          "coba": 27
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "0:53:19",
+          "keluar": "0:53:19",
+          "duration": "47.551",
+          "coba": 28
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "0:55:37",
+          "keluar": "0:55:37",
+          "duration": "55.988",
+          "coba": 29
+     },
+     {
+          "nama": "getByGenderJsons",
+          "masuk": "1:1:49",
+          "keluar": "1:1:49",
+          "duration": "46.678",
+          "coba": 30
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "23:55:7",
+          "keluar": "23:55:7",
+          "duration": "24.104",
+          "coba": 1
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "23:55:9",
+          "keluar": "23:55:9",
+          "duration": "24.591",
+          "coba": 2
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "23:55:12",
+          "keluar": "23:55:12",
+          "duration": "24.950",
+          "coba": 3
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "23:55:15",
+          "keluar": "23:55:15",
+          "duration": "24.494",
+          "coba": 4
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "23:55:19",
+          "keluar": "23:55:19",
+          "duration": "25.307",
+          "coba": 5
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "23:55:23",
+          "keluar": "23:55:23",
+          "duration": "24.984",
+          "coba": 6
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:34:5",
+          "keluar": "0:34:5",
+          "duration": "52.588",
+          "coba": 7
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:34:44",
+          "keluar": "0:34:44",
+          "duration": "54.927",
+          "coba": 8
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:34:58",
+          "keluar": "0:34:58",
+          "duration": "52.902",
+          "coba": 9
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:35:8",
+          "keluar": "0:35:8",
+          "duration": "55.456",
+          "coba": 10
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:35:14",
+          "keluar": "0:35:14",
+          "duration": "55.234",
+          "coba": 11
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:35:49",
+          "keluar": "0:35:50",
+          "duration": "56.815",
+          "coba": 12
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:42:43",
+          "keluar": "0:42:44",
+          "duration": "53.317",
+          "coba": 13
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:43:0",
+          "keluar": "0:43:0",
+          "duration": "53.545",
+          "coba": 14
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:43:8",
+          "keluar": "0:43:8",
+          "duration": "48.681",
+          "coba": 15
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:43:14",
+          "keluar": "0:43:14",
+          "duration": "57.294",
+          "coba": 16
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:43:19",
+          "keluar": "0:43:19",
+          "duration": "49.843",
+          "coba": 17
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:53:11",
+          "keluar": "0:53:11",
+          "duration": "48.472",
+          "coba": 18
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:53:34",
+          "keluar": "0:53:34",
+          "duration": "53.417",
+          "coba": 19
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:53:44",
+          "keluar": "0:53:44",
+          "duration": "47.254",
+          "coba": 20
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:53:48",
+          "keluar": "0:53:48",
+          "duration": "59.241",
+          "coba": 21
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:53:53",
+          "keluar": "0:53:53",
+          "duration": "59.663",
+          "coba": 22
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:55:25",
+          "keluar": "0:55:25",
+          "duration": "55.631",
+          "coba": 23
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:55:43",
+          "keluar": "0:55:43",
+          "duration": "56.101",
+          "coba": 24
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:55:55",
+          "keluar": "0:55:55",
+          "duration": "60.666",
+          "coba": 25
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:56:1",
+          "keluar": "0:56:1",
+          "duration": "54.121",
+          "coba": 26
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "0:56:5",
+          "keluar": "0:56:5",
+          "duration": "51.718",
+          "coba": 27
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "1:1:42",
+          "keluar": "1:1:42",
+          "duration": "54.963",
+          "coba": 28
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "1:1:55",
+          "keluar": "1:1:55",
+          "duration": "52.630",
+          "coba": 29
+     },
+     {
+          "nama": "getByIdJsons",
+          "masuk": "1:2:14",
+          "keluar": "1:2:15",
+          "duration": "55.717",
+          "coba": 30
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:50:48",
+          "keluar": "23:50:48",
+          "duration": "30.127",
+          "coba": 1
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:50:54",
+          "keluar": "23:50:54",
+          "duration": "30.918",
+          "coba": 2
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:51:12",
+          "keluar": "23:51:12",
+          "duration": "34.551",
+          "coba": 3
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:51:18",
+          "keluar": "23:51:18",
+          "duration": "30.632",
+          "coba": 4
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:51:30",
+          "keluar": "23:51:30",
+          "duration": "33.967",
+          "coba": 5
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:51:35",
+          "keluar": "23:51:35",
+          "duration": "29.933",
+          "coba": 6
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:51:39",
+          "keluar": "23:51:39",
+          "duration": "28.529",
+          "coba": 7
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:51:56",
+          "keluar": "23:51:56",
+          "duration": "35.068",
+          "coba": 8
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:52:0",
+          "keluar": "23:52:0",
+          "duration": "31.004",
+          "coba": 9
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:52:5",
+          "keluar": "23:52:5",
+          "duration": "30.560",
+          "coba": 10
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:52:11",
+          "keluar": "23:52:11",
+          "duration": "32.357",
+          "coba": 11
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:52:15",
+          "keluar": "23:52:15",
+          "duration": "29.889",
+          "coba": 12
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:52:22",
+          "keluar": "23:52:22",
+          "duration": "32.357",
+          "coba": 13
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:52:26",
+          "keluar": "23:52:26",
+          "duration": "29.276",
+          "coba": 14
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:52:31",
+          "keluar": "23:52:31",
+          "duration": "28.069",
+          "coba": 15
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:52:36",
+          "keluar": "23:52:36",
+          "duration": "30.660",
+          "coba": 16
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:52:43",
+          "keluar": "23:52:43",
+          "duration": "31.756",
+          "coba": 17
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:52:49",
+          "keluar": "23:52:49",
+          "duration": "30.629",
+          "coba": 18
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:52:52",
+          "keluar": "23:52:52",
+          "duration": "32.219",
+          "coba": 19
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:52:57",
+          "keluar": "23:52:57",
+          "duration": "29.801",
+          "coba": 20
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:53:3",
+          "keluar": "23:53:3",
+          "duration": "32.163",
+          "coba": 21
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:53:9",
+          "keluar": "23:53:9",
+          "duration": "30.354",
+          "coba": 22
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:53:13",
+          "keluar": "23:53:13",
+          "duration": "31.554",
+          "coba": 23
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:53:20",
+          "keluar": "23:53:20",
+          "duration": "30.073",
+          "coba": 24
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "23:53:25",
+          "keluar": "23:53:25",
+          "duration": "31.989",
+          "coba": 25
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "0:34:54",
+          "keluar": "0:34:54",
+          "duration": "65.407",
+          "coba": 26
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "0:43:4",
+          "keluar": "0:43:4",
+          "duration": "63.057",
+          "coba": 27
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "0:53:39",
+          "keluar": "0:53:39",
+          "duration": "57.019",
+          "coba": 28
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "0:55:51",
+          "keluar": "0:55:51",
+          "duration": "68.485",
+          "coba": 29
+     },
+     {
+          "nama": "updateByIdJsons",
+          "masuk": "1:2:5",
+          "keluar": "1:2:5",
+          "duration": "72.356",
+          "coba": 30
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:2",
+          "keluar": "23:54:3",
+          "duration": "31.134",
+          "coba": 1
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:7",
+          "keluar": "23:54:7",
+          "duration": "31.073",
+          "coba": 2
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:9",
+          "keluar": "23:54:9",
+          "duration": "29.677",
+          "coba": 3
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:11",
+          "keluar": "23:54:11",
+          "duration": "30.826",
+          "coba": 4
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:17",
+          "keluar": "23:54:17",
+          "duration": "30.166",
+          "coba": 5
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:21",
+          "keluar": "23:54:21",
+          "duration": "29.526",
+          "coba": 6
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:23",
+          "keluar": "23:54:23",
+          "duration": "30.511",
+          "coba": 7
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:29",
+          "keluar": "23:54:29",
+          "duration": "29.703",
+          "coba": 8
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:32",
+          "keluar": "23:54:32",
+          "duration": "28.655",
+          "coba": 9
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:37",
+          "keluar": "23:54:37",
+          "duration": "28.348",
+          "coba": 10
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:40",
+          "keluar": "23:54:40",
+          "duration": "27.922",
+          "coba": 11
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:45",
+          "keluar": "23:54:45",
+          "duration": "32.729",
+          "coba": 12
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:48",
+          "keluar": "23:54:48",
+          "duration": "29.788",
+          "coba": 13
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:50",
+          "keluar": "23:54:50",
+          "duration": "29.304",
+          "coba": 14
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:54",
+          "keluar": "23:54:54",
+          "duration": "29.961",
+          "coba": 15
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:54:56",
+          "keluar": "23:54:56",
+          "duration": "31.282",
+          "coba": 16
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:55:0",
+          "keluar": "23:55:0",
+          "duration": "30.130",
+          "coba": 17
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:55:3",
+          "keluar": "23:55:3",
+          "duration": "29.770",
+          "coba": 18
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:55:5",
+          "keluar": "23:55:5",
+          "duration": "29.522",
+          "coba": 19
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:55:7",
+          "keluar": "23:55:7",
+          "duration": "31.837",
+          "coba": 20
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:55:10",
+          "keluar": "23:55:10",
+          "duration": "33.030",
+          "coba": 21
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:55:13",
+          "keluar": "23:55:13",
+          "duration": "29.291",
+          "coba": 22
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:55:16",
+          "keluar": "23:55:16",
+          "duration": "29.723",
+          "coba": 23
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:55:20",
+          "keluar": "23:55:20",
+          "duration": "34.243",
+          "coba": 24
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "23:55:24",
+          "keluar": "23:55:24",
+          "duration": "30.273",
+          "coba": 25
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "0:35:10",
+          "keluar": "0:35:10",
+          "duration": "65.939",
+          "coba": 26
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "0:43:15",
+          "keluar": "0:43:15",
+          "duration": "56.204",
+          "coba": 27
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "0:53:49",
+          "keluar": "0:53:49",
+          "duration": "58.543",
+          "coba": 28
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "0:56:1",
+          "keluar": "0:56:1",
+          "duration": "57.401",
+          "coba": 29
+     },
+     {
+          "nama": "deleteByIdJsons",
+          "masuk": "1:2:16",
+          "keluar": "1:2:16",
+          "duration": "68.715",
+          "coba": 30
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:9:11",
+          "keluar": "0:9:11",
+          "duration": "0.070",
+          "coba": 1
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:9:18",
+          "keluar": "0:9:18",
+          "duration": "0.088",
+          "coba": 2
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:9:24",
+          "keluar": "0:9:24",
+          "duration": "0.128",
+          "coba": 3
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:9:46",
+          "keluar": "0:9:46",
+          "duration": "0.078",
+          "coba": 4
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:9:53",
+          "keluar": "0:9:53",
+          "duration": "0.109",
+          "coba": 5
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:10:3",
+          "keluar": "0:10:3",
+          "duration": "0.072",
+          "coba": 6
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:10:10",
+          "keluar": "0:10:10",
+          "duration": "0.075",
+          "coba": 7
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:10:18",
+          "keluar": "0:10:18",
+          "duration": "0.068",
+          "coba": 8
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:10:26",
+          "keluar": "0:10:26",
+          "duration": "0.072",
+          "coba": 9
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:10:33",
+          "keluar": "0:10:33",
+          "duration": "0.086",
+          "coba": 10
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:10:40",
+          "keluar": "0:10:40",
+          "duration": "0.071",
+          "coba": 11
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:10:48",
+          "keluar": "0:10:48",
+          "duration": "0.080",
+          "coba": 12
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:11:5",
+          "keluar": "0:11:5",
+          "duration": "0.067",
+          "coba": 13
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:11:12",
+          "keluar": "0:11:12",
+          "duration": "0.073",
+          "coba": 14
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:11:19",
+          "keluar": "0:11:19",
+          "duration": "0.084",
+          "coba": 15
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:11:27",
+          "keluar": "0:11:27",
+          "duration": "0.091",
+          "coba": 16
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:11:34",
+          "keluar": "0:11:34",
+          "duration": "0.079",
+          "coba": 17
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:11:56",
+          "keluar": "0:11:56",
+          "duration": "0.071",
+          "coba": 18
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:12:3",
+          "keluar": "0:12:3",
+          "duration": "0.067",
+          "coba": 19
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:12:10",
+          "keluar": "0:12:10",
+          "duration": "0.089",
+          "coba": 20
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:12:17",
+          "keluar": "0:12:17",
+          "duration": "0.116",
+          "coba": 21
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:12:24",
+          "keluar": "0:12:24",
+          "duration": "0.066",
+          "coba": 22
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:12:31",
+          "keluar": "0:12:31",
+          "duration": "0.069",
+          "coba": 23
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:12:50",
+          "keluar": "0:12:50",
+          "duration": "0.092",
+          "coba": 24
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:33:20",
+          "keluar": "0:33:20",
+          "duration": "0.249",
+          "coba": 25
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:36:33",
+          "keluar": "0:36:33",
+          "duration": "0.145",
+          "coba": 26
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:44:22",
+          "keluar": "0:44:22",
+          "duration": "0.184",
+          "coba": 27
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:55:0",
+          "keluar": "0:55:0",
+          "duration": "0.168",
+          "coba": 28
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "0:57:3",
+          "keluar": "0:57:3",
+          "duration": "0.142",
+          "coba": 29
+     },
+     {
+          "nama": "deleteAllJsons",
+          "masuk": "1:3:28",
+          "keluar": "1:3:28",
+          "duration": "0.126",
+          "coba": 30
+     }
+]
